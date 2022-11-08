@@ -13,7 +13,6 @@ public class Ejercicio_3 {
         miLista.LInumeros = new ArrayList();
         miLista.leerOpcion();
     }
-
     public void leerOpcion() {
         Scanner teclado = new Scanner(System.in);
         int opcion;

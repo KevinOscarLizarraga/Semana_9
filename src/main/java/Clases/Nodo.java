@@ -39,4 +39,12 @@ public class Nodo {
         return "Nodo{" + "dato=" + dato + ", siguiente=" + siguiente + '}';
     }
 
+    public void setEnlace(Object primero) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+
+    public Object getEnlace() {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+
 }
