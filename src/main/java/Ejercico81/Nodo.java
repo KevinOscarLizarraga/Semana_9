@@ -6,6 +6,10 @@ package Ejercico81;
 public class Nodo {
     int dato;
     Nodo enlace;
+    Nodo adelante;
+    Nodo atras;
+    Nodo actual;
+    Nodo entrada;
 
     public Nodo(int x) {
         dato = x;
